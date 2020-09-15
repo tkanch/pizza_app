@@ -1,0 +1,39 @@
+
+header {
+  background-image: url('images/pizza_img.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:200px;
+  margin-top:-40px;
+}
+
+header h1 {
+  line-height:200px;
+  color:white;
+  text-align:center;
+  font-weight:300;
+}
+.brand-text {
+  color:#df524a !important;
+}
+
+.brand {
+    background-color:#df524a !important;
+}
+
+form {
+  max-width:580px;
+  margin:20px auto;
+  padding:20px;
+}
+
+
+
+.pizza {
+  width:100px;
+  height:100px;
+  display:block;
+  margin:10px auto;
+  position:relative;
+  bottom:30px;
+}
